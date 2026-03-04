@@ -390,6 +390,7 @@ body {
     padding: 8px 15px;
 }
 .menublockinner select {
+    appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
     background-color: #2E2E2E;
